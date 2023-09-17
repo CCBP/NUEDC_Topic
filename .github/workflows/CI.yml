@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+    steps:
+      - name: Checking out
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Tree README
+        uses: RavelloH/readme-tree@v1.1.0
+        with:
+          showsize: "no"
+
+      - name: Prettify markdown
+        uses: creyD/prettier_action@v4.3
+        with:
+          prettier_options: --write **/*.{yml,md}
+          commit_message: "Automatically Prettified Markdown"
