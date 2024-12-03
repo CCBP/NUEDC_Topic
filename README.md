@@ -170,6 +170,17 @@
 │   ├── I_气垫悬浮车.pdf
 │   ├── J_线路故障自动检测系统.pdf
 │   └── K_辨音识键奏乐系统.pdf
+├── 2024
+│   ├── 2024竞赛题目列表.xlsx
+│   ├── A题_AC-AC变换电路并联运行.pdf
+│   ├── B题_单相功率分析仪.pdf
+│   ├── C题_无线传输信号模拟系统.pdf
+│   ├── D题_立体货架盘点无人机系统.pdf
+│   ├── D题_立体货架盘点无人机系统_附件.zip
+│   ├── E题_三子棋游戏装置.pdf
+│   ├── F题_磁悬浮实验装置.pdf
+│   ├── G题_简易录音屏蔽系统.pdf
+│   └── H题_自动行驶小车.pdf
 ├── Classification.xlsx
 ├── README.md
 ├── assets
@@ -177,7 +188,7 @@
 │       └── NUEDC_LOGO.jpg
 └── tree.bak
 
-19 directories, 145 files
+20 directories, 155 files
 ```
 
 <!-- readme-tree end -->
