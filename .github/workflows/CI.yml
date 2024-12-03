@@ -27,8 +27,14 @@ jobs:
         with:
           showsize: "no"
 
-      - name: Prettify markdown
-        uses: creyD/prettier_action@v4.3
-        with:
-          prettier_options: --write **/*.{yml,md}
-          commit_message: "Automatically Prettified Markdown"
+      - name: commit
+        continue-on-error: True
+        run: |
+          git init
+          git pull
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git add .
+          git commit -m "[Readme-Tree]`date '+%Y-%m-%d %H:%M:%S'`" || exit
+          git status
+          git push -f
