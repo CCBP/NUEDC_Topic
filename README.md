@@ -180,6 +180,16 @@
 │   ├── F题_磁悬浮实验装置.pdf
 │   ├── G题_简易录音屏蔽系统.pdf
 │   └── H题_自动行驶小车.pdf
+├── 2025
+│   ├── 2025竞赛题目列表.xlsx
+│   ├── A题_能量回馈的变流器负载试验装置.pdf
+│   ├── B题_单相有源电力滤波实验装置.pdf
+│   ├── C题_基于单目视觉的目标物测量装置.pdf
+│   ├── D题_简易以太网双绞线测试仪.pdf
+│   ├── E题_简易自行瞄准装置.pdf
+│   ├── F题_简易自动接收机.pdf
+│   ├── G题_电路模型探究装置.pdf
+│   └── H题_野生动物巡查系统.pdf
 ├── Classification.xlsx
 ├── README.md
 ├── assets
@@ -187,7 +197,7 @@
 │       └── NUEDC_LOGO.jpg
 └── tree.bak
 
-21 directories, 155 files
+22 directories, 164 files
 ```
 <!-- readme-tree end -->
 
