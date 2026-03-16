@@ -235,4 +235,5 @@
 注：
 - 分类类别及 1994-2017 赛题分类来自[全国大学生电子设计竞赛培训网](https://www.nuedc-training.com.cn/index/download/download_list/)；
 - 感谢[@nightt5879](https://github.com/nightt5879)整理的 2018-2024 赛题分类 [#5](https://github.com/CCBP/NUEDC_Topic/pull/5)；
-- 感谢[@Jack Yang](https://github.com/JackYang-hellobobo)整理的 2025 赛题分类 [#9](https://github.com/CCBP/NUEDC_Topic/pull/9)。
+- 感谢[@Jack Yang](https://github.com/JackYang-hellobobo)整理的 2025 赛题分类 [#9](https://github.com/CCBP/NUEDC_Topic/pull/9)；
+- 感谢[@YunlaiZhang](https://github.com/SkyWithClouds)补充的2019、2021、2023、2025年的器件清单 [#11](https://github.com/CCBP/NUEDC_Topic/pull/11)。
