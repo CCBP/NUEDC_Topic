@@ -4,9 +4,7 @@
 
 # 全国大学生电子设计竞赛 历年赛题（1994-2025）
 
-收集并整理了全国大学生电子设计竞赛从 1994 年至 2025 年的历年赛题，如有遗漏，欢迎补充！
-
-当前仓库额外补充收录了 `2022/省赛题目（10月）` 题目，便于与 2022 年全国赛题区分。
+收集并整理了全国大学生电子设计竞赛从 1994 年至 2025 年的历年赛题，如有错漏，欢迎补充！
 
 # 目录结构
 
@@ -238,4 +236,5 @@
 - 分类类别及 1994-2017 赛题分类来自[全国大学生电子设计竞赛培训网](https://www.nuedc-training.com.cn/index/download/download_list/)；
 - 感谢[@nightt5879](https://github.com/nightt5879)整理的 2018-2024 赛题分类 [#5](https://github.com/CCBP/NUEDC_Topic/pull/5)；
 - 感谢[@Jack Yang](https://github.com/JackYang-hellobobo)整理的 2025 赛题分类 [#9](https://github.com/CCBP/NUEDC_Topic/pull/9)；
-- 感谢[@YunlaiZhang](https://github.com/SkyWithClouds)补充的2019、2021、2023、2025年的器件清单 [#11](https://github.com/CCBP/NUEDC_Topic/pull/11)。
+- 感谢[@YunlaiZhang](https://github.com/SkyWithClouds)补充的 2019、2021、2023、2025 年的器件清单 [#11](https://github.com/CCBP/NUEDC_Topic/pull/11)；
+- 感谢[@AmorFati](https://github.com/A-m-o-r-F-a-t-i/NUEDC_Topic/commits?author=A-m-o-r-F-a-t-i)补充的 2022 年 10 月赛题 [#12](https://github.com/CCBP/NUEDC_Topic/pull/12)。
