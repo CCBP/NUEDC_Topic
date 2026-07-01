@@ -203,17 +203,24 @@
 │   ├── G题_电路模型探究装置.pdf
 │   └── H题_野生动物巡查系统.pdf
 ├── 2026
-│   └── 4月
-│       ├── 附件1：第二十三届“长通杯”大学生电子设计竞赛报名表及项目设计方案.docx
-│       ├── 附件2：第二十三届“长通杯”大学生电子设计竞赛试题.zip
-│       └── 附件3：第二十三届“长通杯”大学生电子设计竞赛实施细则.pdf
+│   └── 4月(吉林)
+│       ├── A.简易扫频仪.pdf
+│       ├── B.智能芯片盒.pdf
+│       ├── C.自动烤肠机.pdf
+│       ├── D.智能寻迹打靶协同系统.pdf
+│       ├── E.轮式智能车.pdf
+│       ├── F.直流电机协同.pdf
+│       ├── G.简易可见光通信装置 .pdf
+│       ├── H.汉诺塔问题.pdf
+│       └── I.简易液体容器监控装置.pdf
 ├── Classification.xlsx
 ├── README.md
 ├── assets
 │   └── LOGO
 │       └── NUEDC_LOGO.jpg
+└── tree.bak
 
-25 directories, 176 files
+26 directories, 183 files
 ```
 <!-- readme-tree end -->
 
