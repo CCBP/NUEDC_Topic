@@ -19,8 +19,6 @@ jobs:
     steps:
       - name: Checking out
         uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
 
       - name: Tree README
         uses: RavelloH/readme-tree@v1.1.0
