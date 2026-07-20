@@ -11,6 +11,7 @@
 <!-- readme-tree start -->
 ```
 .
+├── .gitattributes
 ├── .github
 │   └── workflows
 │       └── CI.yml
@@ -204,15 +205,10 @@
 │   └── H题_野生动物巡查系统.pdf
 ├── 2026
 │   └── 4月(吉林)
-│       ├── A.简易扫频仪.pdf
-│       ├── B.智能芯片盒.pdf
-│       ├── C.自动烤肠机.pdf
-│       ├── D.智能寻迹打靶协同系统.pdf
-│       ├── E.轮式智能车.pdf
-│       ├── F.直流电机协同.pdf
-│       ├── G.简易可见光通信装置 .pdf
-│       ├── H.汉诺塔问题.pdf
-│       └── I.简易液体容器监控装置.pdf
+│       ├── A.农作物种植大棚控制模拟装置.pdf
+│       ├── B.三相AC-DC-AC变换器系统设计.pdf
+│       ├── C.简易音频效果器.pdf
+│       └── D.乒乓球陪练控制系统.pdf
 ├── Classification.xlsx
 ├── README.md
 ├── assets
@@ -220,7 +216,7 @@
 │       └── NUEDC_LOGO.jpg
 └── tree.bak
 
-26 directories, 183 files
+26 directories, 179 files
 ```
 <!-- readme-tree end -->
 
